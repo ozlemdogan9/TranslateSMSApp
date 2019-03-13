@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">TranslateSmsApp</string>
+
+    <string-array name="languages">
+        <item>Afrikaans - af</item>
+        <item>Albanian - sq</item>
+        <item>Amharic - am</item>
+        <item>Arabic - ar</item>
+        <item>Armenian - hy</item>
+        <item>Azerbaijan - az</item>
+        <item>Basque - eu</item>
+        <item>Bashkir - ba</item>
+        <item>Belarusian - be</item>
+        <item>Bengali - bn</item>
+        <item>Bosnian - bs</item>
+        <item>Bulgarian - bg</item>
+        <item>Catalan - ca</item>
+        <item>Cebuano - ceb </item>
+        <item>Chinese - zh</item>
+        <item>Czech - cs</item>
+        <item>Danish - da</item>
+        <item>Dutch - nl</item>
+        <item>English - en</item>
+        <item>Esperanto - eo</item>
+        <item>Estonian - et</item>
+        <item>Finnish - fi</item>
+        <item>French - fr</item>
+        <item>Galician - gl</item>
+        <item>Georgian - ka</item>
+        <item>German - de</item>
+        <item>Greek - el</item>
+        <item>Gujarati - gu</item>
+        <item>Haitian Creole - ht</item>
+        <item>Hausa - ha</item>
+        <item>Hawaiian - haw </item>
+        <item>Hebrew - he**</item>
+        <item>Hindi - hi</item>
+        <item>Hmong - hmn </item>
+        <item>Hungarian	 - hu</item>
+        <item>Icelandic - is</item>
+        <item>Igbo - ig</item>
+        <item>Indonesian - id</item>
+        <item>Irish - ga</item>
+        <item>Italian - it</item>
+        <item>Japanese - ja</item>
+        <item>Javanese - jw</item>
+        <item>Kannada - kn</item>
+        <item>Kazakh - kk</item>
+        <item>Khmer - km</item>
+        <item>Korean - ko</item>
+        <item>Kurdish - ku</item>
+        <item>Kyrgyz - ky</item>
+        <item>Lao - lo</item>
+        <item>Latin - la</item>
+        <item>Latvian - lv</item>
+        <item>Lithuanian - lt</item>
+        <item>Luxembourgish - lb</item>
+        <item>Macedonian - mk</item>
+        <item>Malagasy - mg</item>
+        <item>Malay - ms</item>
+        <item>Malayalam - ml</item>
+        <item>Maltese - mt</item>
+        <item>Maori - mi</item>
+        <item>Marathi - mr</item>
+        <item>Mongolian - mn</item>
+        <item>Myanmar (Burmese) - my</item>
+        <item>Nepali - ne</item>
+        <item>Norwegian - no</item>
+        <item>Nyanja (Chichewa) - ny</item>
+        <item>Pashto - ps</item>
+        <item>Persian - fa</item>
+        <item>Polish - pl</item>
+        <item>Portuguese(Portugal, Brazil) - pt</item>
+        <item>Punjabi - pa</item>
+        <item>Romanian - ro</item>
+        <item>Russian - ru</item>
+        <item>Samoan - sm</item>
+        <item>Scots Gaelic - gd</item>
+        <item>Serbian - sr</item>
+        <item>Sesotho - st</item>
+        <item>Shona - sn</item>
+        <item>Sindhi - sd</item>
+        <item>Sinhala - si</item>
+        <item>Slovak - sk</item>
+        <item>Slovenian - sl</item>
+        <item>Somali - so</item>
+        <item>Spanish - es</item>
+        <item>Sundanese - su</item>
+        <item>Swahili - sw</item>
+        <item>Swedish - sv</item>
+        <item>Tagalog - tl</item>
+        <item>Tajik - tg</item>
+        <item>Tamil - ta</item>
+        <item>Telugu - te</item>
+        <item>Thai - th</item>
+        <item>Tatar - tt</item>
+        <item>Turkish - tr</item>
+        <item>Ukrainian - uk</item>
+        <item>Urdu - ur</item>
+        <item>Uzbek - uz</item>
+        <item>Vietnamese - vi</item>
+        <item>Welsh - cy</item>
+        <item>Xhosa - xh</item>
+        <item>Yiddish - yi</item>
+        <item>Yoruba - yo</item>
+        <item>Zulu - zu</item>
+
+    </string-array>
+</resources>
